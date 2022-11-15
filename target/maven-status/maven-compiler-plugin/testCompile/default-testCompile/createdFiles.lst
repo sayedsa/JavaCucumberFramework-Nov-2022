@@ -1,0 +1,5 @@
+stepDefinitions\Initializer.class
+pageObjects\RegisterAccountPageObjects.class
+pageObjects\LoginPageObjects_PF.class
+runner\TestRunner.class
+stepDefinitions\RegisterAccountStepsUpdated.class
